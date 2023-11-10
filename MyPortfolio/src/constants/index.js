@@ -17,6 +17,8 @@ import {
     docker,
     goc,
     carms,
+    nw,
+    td,
     ac,
     mobileapp,
     sumz,
@@ -121,7 +123,7 @@ import {
       company_name: "Statistics Canada [ Government of Canada ]",
       icon: goc,
       iconBg: "#FAF5F4",
-      date: "2021-2023",
+      date: "May 2021 - May 2023",
       points: [
         "Independently developed a sophisticated mobile app from scratch, collaborating with cross-functional teams to boost user engagement by 25%.",
         "Led the successful launch of the StatsCAN app with 8.9k downloads on Apple Store and 2.1k downloads on Google Play, maintaining a high average rating of 4-5 stars.",
@@ -133,12 +135,35 @@ import {
       company_name: "The Canadian Resident Matching Service",
       icon: carms,
       iconBg: "#F6fdfd",
-      date: "2020 - 2021",
+      date: "Jan 2021 - April 2022",
       points: [
        "Developed a Robot Automation Framework from scratch for two large-scale applications, reducing manual testing efforts by 80% and increasing test coverage by 50%.",
        "Integrated Oracle database using custom Python methods, enhancing test data management within the framework.",
-       "Resolved multiple bugs and implemented key enhancements, improving web functionality and boosting site engagement by 20%.",
-       "Enacted report generation capabilities for test runs, producing 500+ automated reports with key insights for the team and stakeholders."
+       "Resolved multiple bugs and implemented key enhancements, improving web functionality and boosting site engagement by 20%."
+      ],
+    },
+    {
+      title: "Full Stack Developer (Remote)",
+      company_name: "NexWave Abstracting Group",
+      icon: nw,
+      iconBg: "#F6fdfd",
+      date: "Jan 2019 - Dec 2019",
+      points: [
+       "Spearheaded the end-to-end development of an internal title search application, optimizing order processing workflows, resulting in a notable 25% improvement in efficiency and accuracy.",
+       "Proficiently managed both front-end & back-end tasks, enhancing the overall user experience by implementing an intuitive interface using React and Node.js.",
+       "Played a pivotal role in database architecture & maintenance, ensuring optimal storage and retrieval of extensive datasets through SQL databases, contributing to a 30% increase in data management efficiency."
+      ],
+    },
+    {
+      title: "Full Stack Developer",
+      company_name: "CNET Technologies",
+      icon: td,
+      iconBg: "#F6fdfd",
+      date: "Aug 2017 - July 2018",
+      points: [
+       "Collaborated with UI/UX designers to create a more user-friendly interface for the Tender Information Service, contributing to a 10% improvement in overall client engagement.",
+       "Implemented advanced data analytics tools, leveraging CRM data, & realized a 20% enhancement in sales decision-making.",
+       "Ensured a robust & secure CRM system, implementing security measures that fortified databases and protected sensitive client information, contributing to a 15% increase in data security."
       ],
     },
    

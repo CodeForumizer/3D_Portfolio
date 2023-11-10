@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-     As a skilled full-stack developer with over 4 years of experience, I specialize in creating high-quality web and mobile applications using frameworks like React, React Native, Node.js, among others. My expertise in various programming languages allows me to craft efficient and scalable solutions that tackle real-world problems. I am a quick learner and enjoy collaborating closely with clients to bring their ideas to life. With a focus on user experience and functionality, I strive to deliver user-friendly and aesthetically pleasing solutions. Let's work together to bring your vision to reality!
+     As a skilled full-stack developer with over 5+ years of experience, I specialize in creating high-quality web and mobile applications using frameworks like React, React Native, Node.js, among others. My expertise in various programming languages allows me to craft efficient and scalable solutions that tackle real-world problems. I am a quick learner and enjoy collaborating closely with clients to bring their ideas to life. With a focus on user experience and functionality, I strive to deliver user-friendly and aesthetically pleasing solutions. Let's work together to bring your vision to reality!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -29,6 +29,8 @@ import threejs from "./tech/threejs.svg";
 import ac from "./company/ac.png";
 import goc from "./company/goc.png";
 import carms from "./company/carms.png";
+import nw from "./company/nw.png";
+import td from "./company/td.png";
 import mobileapp from './tech/mobileapp.png'
 import sumz from "./tech/Sumz.png";
 import jobsift from './tech/jobsift.png';
@@ -59,6 +61,8 @@ export {
   ac,
   goc,
   carms,
+  nw,
+  td,
   mobileapp,
   sumz,
   jobsift,
